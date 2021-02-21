@@ -384,3 +384,51 @@ L 02/21/2021 - 00:02:59: [bebop.smx] +------------------------------------------
 L 02/21/2021 - 00:11:56: [bebop.smx] +-------------------------------------------+
 L 02/21/2021 - 00:11:56: [bebop.smx] |                  MAP END                  |
 L 02/21/2021 - 00:11:56: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:21:52: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:21:52: [bebop.smx] |               PLUGIN START                |
+L 02/21/2021 - 17:21:52: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:21:52: [bebop.smx] |               Version: 0.2 beta           |
+L 02/21/2021 - 17:21:52: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:21:52: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 02/21/2021 - 17:21:52: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 02/21/2021 - 17:21:52: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 02/21/2021 - 17:21:52: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 02/21/2021 - 17:26:50: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/21/2021 - 17:27:00: [bebop.smx] PLAYER_CHANGE_TEAM:	--> 啊哇啦 <-- may pressed the afk button
+L 02/21/2021 - 17:31:15: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:31:15: [bebop.smx] |                  MAP END                  |
+L 02/21/2021 - 17:31:15: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:31:23: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:31:23: [bebop.smx] |               PLUGIN START                |
+L 02/21/2021 - 17:31:23: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:31:23: [bebop.smx] |               Version: 0.2 beta           |
+L 02/21/2021 - 17:31:23: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:31:23: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 02/21/2021 - 17:31:23: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 02/21/2021 - 17:31:23: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 02/21/2021 - 17:31:23: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 02/21/2021 - 17:41:18: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/21/2021 - 17:42:25: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:42:25: [bebop.smx] |                  MAP END                  |
+L 02/21/2021 - 17:42:25: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:42:47: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/21/2021 - 17:48:00: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:48:00: [bebop.smx] |                  MAP END                  |
+L 02/21/2021 - 17:48:00: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:48:20: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/21/2021 - 17:55:06: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:55:06: [bebop.smx] |                  MAP END                  |
+L 02/21/2021 - 17:55:06: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 17:55:28: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/21/2021 - 18:04:47: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 18:04:47: [bebop.smx] |                  MAP END                  |
+L 02/21/2021 - 18:04:47: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 18:05:13: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/21/2021 - 18:13:52: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 18:13:52: [bebop.smx] |                  MAP END                  |
+L 02/21/2021 - 18:13:52: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 18:14:15: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/21/2021 - 18:25:13: [bebop.smx] PLAYER_CHANGE_TEAM:	--> 啊哇啦 <-- may pressed the afk button
+L 02/21/2021 - 18:28:51: [bebop.smx] +-------------------------------------------+
+L 02/21/2021 - 18:28:51: [bebop.smx] |                  MAP END                  |
+L 02/21/2021 - 18:28:51: [bebop.smx] +-------------------------------------------+
