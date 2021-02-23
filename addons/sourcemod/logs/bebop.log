@@ -638,3 +638,174 @@ L 02/22/2021 - 21:52:36: [bebop.smx] PLAYER_CHANGE_TEAM:	--> 啊哇啦 <-- may p
 L 02/22/2021 - 21:52:43: [bebop.smx] +-------------------------------------------+
 L 02/22/2021 - 21:52:43: [bebop.smx] |                  MAP END                  |
 L 02/22/2021 - 21:52:43: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 00:58:36: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 00:58:36: [bebop.smx] |               PLUGIN START                |
+L 02/24/2021 - 00:58:36: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 00:58:36: [bebop.smx] |               Version: 0.2 beta           |
+L 02/24/2021 - 00:58:36: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 00:58:36: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 02/24/2021 - 00:58:36: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 02/24/2021 - 00:58:36: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 02/24/2021 - 00:58:36: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 02/24/2021 - 01:05:41: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/24/2021 - 01:06:22: [bebop.smx] GAMEMODE_CHANGE -> NOTICE: gamemode changed to NON COOP
+L 02/24/2021 - 01:06:22: [bebop.smx] UNHOOKED_EVENTS -> NOTICE: unhooked events
+L 02/24/2021 - 01:06:48: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:06:48: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 01:06:48: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:24:59: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:24:59: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 01:24:59: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:28:38: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:28:38: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 01:28:38: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:28:47: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:28:47: [bebop.smx] |               PLUGIN START                |
+L 02/24/2021 - 01:28:47: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:28:47: [bebop.smx] |               Version: 0.2 beta           |
+L 02/24/2021 - 01:28:47: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:28:47: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 02/24/2021 - 01:28:47: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 02/24/2021 - 01:28:47: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 02/24/2021 - 01:28:47: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 02/24/2021 - 01:29:16: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/24/2021 - 01:30:18: [bebop.smx] GAMEMODE_CHANGE -> NOTICE: gamemode changed to NON COOP
+L 02/24/2021 - 01:30:18: [bebop.smx] UNHOOKED_EVENTS -> NOTICE: unhooked events
+L 02/24/2021 - 01:30:38: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:30:38: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 01:30:38: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:35:55: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:35:55: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 01:35:55: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:43:05: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:43:05: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 01:43:05: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:44:32: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 01:44:32: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 01:44:32: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:21:49: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:21:49: [bebop.smx] |               PLUGIN START                |
+L 02/24/2021 - 02:21:49: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:21:49: [bebop.smx] |               Version: 0.2 beta           |
+L 02/24/2021 - 02:21:49: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:21:49: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 02/24/2021 - 02:21:49: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 02/24/2021 - 02:21:49: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 02/24/2021 - 02:21:49: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 02/24/2021 - 02:23:36: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/24/2021 - 02:24:00: [bebop.smx] GAMEMODE_CHANGE -> NOTICE: gamemode changed to NON COOP
+L 02/24/2021 - 02:24:00: [bebop.smx] UNHOOKED_EVENTS -> NOTICE: unhooked events
+L 02/24/2021 - 02:24:11: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:24:11: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 02:24:11: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:30:33: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:30:33: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 02:30:33: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:30:38: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:30:38: [bebop.smx] |               PLUGIN START                |
+L 02/24/2021 - 02:30:38: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:30:38: [bebop.smx] |               Version: 0.2 beta           |
+L 02/24/2021 - 02:30:38: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:30:38: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 02/24/2021 - 02:30:38: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 02/24/2021 - 02:30:38: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 02/24/2021 - 02:30:38: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 02/24/2021 - 02:31:09: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/24/2021 - 02:31:29: [bebop.smx] GAMEMODE_CHANGE -> NOTICE: gamemode changed to NON COOP
+L 02/24/2021 - 02:31:29: [bebop.smx] UNHOOKED_EVENTS -> NOTICE: unhooked events
+L 02/24/2021 - 02:31:38: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:31:38: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 02:31:38: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:39:27: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:39:27: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 02:39:27: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:46:32: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:46:32: [bebop.smx] |               PLUGIN START                |
+L 02/24/2021 - 02:46:32: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:46:32: [bebop.smx] |               Version: 0.2 beta           |
+L 02/24/2021 - 02:46:32: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:46:32: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 02/24/2021 - 02:46:32: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 02/24/2021 - 02:46:32: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 02/24/2021 - 02:46:32: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 02/24/2021 - 02:47:01: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/24/2021 - 02:47:14: [bebop.smx] GAMEMODE_CHANGE -> NOTICE: gamemode changed to NON COOP
+L 02/24/2021 - 02:47:14: [bebop.smx] UNHOOKED_EVENTS -> NOTICE: unhooked events
+L 02/24/2021 - 02:47:33: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:47:33: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 02:47:33: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:55:21: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 02:55:21: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 02:55:21: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:08:35: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:08:35: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 03:08:35: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:23:34: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:23:34: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 03:23:34: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:28:40: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:28:40: [bebop.smx] |               PLUGIN START                |
+L 02/24/2021 - 03:28:40: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:28:40: [bebop.smx] |               Version: 0.2 beta           |
+L 02/24/2021 - 03:28:40: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:28:40: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 02/24/2021 - 03:28:40: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 02/24/2021 - 03:28:40: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 02/24/2021 - 03:28:40: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 02/24/2021 - 03:29:31: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/24/2021 - 03:29:44: [bebop.smx] GAMEMODE_CHANGE -> NOTICE: gamemode changed to NON COOP
+L 02/24/2021 - 03:29:44: [bebop.smx] UNHOOKED_EVENTS -> NOTICE: unhooked events
+L 02/24/2021 - 03:30:18: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:30:18: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 03:30:18: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:50:15: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:50:15: [bebop.smx] |               PLUGIN START                |
+L 02/24/2021 - 03:50:15: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:50:15: [bebop.smx] |               Version: 0.2 beta           |
+L 02/24/2021 - 03:50:15: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:50:15: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 02/24/2021 - 03:50:15: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 02/24/2021 - 03:50:15: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 02/24/2021 - 03:50:15: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 02/24/2021 - 03:51:10: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/24/2021 - 03:51:30: [bebop.smx] GAMEMODE_CHANGE -> NOTICE: gamemode changed to NON COOP
+L 02/24/2021 - 03:51:30: [bebop.smx] UNHOOKED_EVENTS -> NOTICE: unhooked events
+L 02/24/2021 - 03:52:09: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 03:52:09: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 03:52:09: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:07:37: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:07:37: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 04:07:37: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:16:03: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:16:03: [bebop.smx] |               PLUGIN START                |
+L 02/24/2021 - 04:16:03: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:16:03: [bebop.smx] |               Version: 0.2 beta           |
+L 02/24/2021 - 04:16:03: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:16:03: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 02/24/2021 - 04:16:03: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 02/24/2021 - 04:16:03: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 02/24/2021 - 04:16:03: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 02/24/2021 - 04:16:42: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 02/24/2021 - 04:17:30: [bebop.smx] GAMEMODE_CHANGE -> NOTICE: gamemode changed to NON COOP
+L 02/24/2021 - 04:17:30: [bebop.smx] UNHOOKED_EVENTS -> NOTICE: unhooked events
+L 02/24/2021 - 04:17:54: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:17:54: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 04:17:54: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:39:40: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:39:40: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 04:39:40: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:40:57: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:40:57: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 04:40:57: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:41:01: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:41:01: [bebop.smx] |               PLUGIN START                |
+L 02/24/2021 - 04:41:01: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:41:01: [bebop.smx] |               Version: 0.2 beta           |
+L 02/24/2021 - 04:41:01: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:41:01: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 02/24/2021 - 04:41:01: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 02/24/2021 - 04:41:01: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 02/24/2021 - 04:41:01: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 02/24/2021 - 04:41:18: [bebop.smx] +-------------------------------------------+
+L 02/24/2021 - 04:41:18: [bebop.smx] |                  MAP END                  |
+L 02/24/2021 - 04:41:18: [bebop.smx] +-------------------------------------------+
