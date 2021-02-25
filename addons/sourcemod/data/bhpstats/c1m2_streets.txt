@@ -1,0 +1,18 @@
+"bhpstats"
+{
+	"Version"		"3.12"
+	"records"
+	{
+		"STEAM_1:0:37541651"
+		{
+			"Name"		"啊哇啦"
+			"kills"		"1"
+			"dmg"		"300"
+			"dist"		"2213"
+		}
+	}
+	"pouncers"
+	{
+		"total"		"1"
+	}
+}
