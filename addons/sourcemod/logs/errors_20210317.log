@@ -1,0 +1,31 @@
+L 03/17/2021 - 22:01:59: SourceMod error session started
+L 03/17/2021 - 22:01:59: Info (map "c1m1_hotel") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2 Dedicated Server\left4dead2\addons\sourcemod\logs\errors_20210317.log")
+L 03/17/2021 - 22:01:59: [SM] Unable to load extension "left4fix.ext": The specified module could not be found.
+
+L 03/17/2021 - 22:02:01: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/17/2021 - 22:02:01: [SM] Failed to load plugin "smac_css_antiflash.smx": This module will not work for this mod and should be removed..
+L 03/17/2021 - 22:02:01: [SM] Failed to load plugin "smac_css_antismoke.smx": This module will not work for this mod and should be removed..
+L 03/17/2021 - 22:02:01: [SM] Failed to load plugin "smac_css_fixes.smx": This module will not work for this mod and should be removed..
+L 03/17/2021 - 22:02:01: [SM] Failed to load plugin "smac_hl2dm_fixes.smx": This module will not work for this mod and should be removed..
+L 03/17/2021 - 22:02:06: [SM] Exception reported: Cannot create new entity when no map is running
+L 03/17/2021 - 22:02:06: [SM] Blaming: l4d2_l4d1_survivors_fix.smx
+L 03/17/2021 - 22:02:06: [SM] Call stack trace:
+L 03/17/2021 - 22:02:06: [SM]   [0] CreateEntityByName
+L 03/17/2021 - 22:02:06: [SM]   [1] Line 137, \\DESKTOP-E5450\SanDisk Z400s SSD 128G\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2 Dedicated Server\left4dead2\addons\sourcemod\scripting\l4d2_l4d1_survivors_fix.sp::FireEntityInput
+L 03/17/2021 - 22:02:06: [SM]   [2] Line 37, \\DESKTOP-E5450\SanDisk Z400s SSD 128G\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2 Dedicated Server\left4dead2\addons\sourcemod\scripting\l4d2_l4d1_survivors_fix.sp::RoundStart
+L 03/17/2021 - 22:06:07: SourceMod error session started
+L 03/17/2021 - 22:06:07: Info (map "c1m1_hotel") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2 Dedicated Server\left4dead2\addons\sourcemod\logs\errors_20210317.log")
+L 03/17/2021 - 22:06:07: [SM] Unable to load extension "left4fix.ext": The specified module could not be found.
+
+L 03/17/2021 - 22:06:07: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/17/2021 - 22:06:07: [SM] Failed to load plugin "smac_css_antiflash.smx": This module will not work for this mod and should be removed..
+L 03/17/2021 - 22:06:07: [SM] Failed to load plugin "smac_css_antismoke.smx": This module will not work for this mod and should be removed..
+L 03/17/2021 - 22:06:07: [SM] Failed to load plugin "smac_css_fixes.smx": This module will not work for this mod and should be removed..
+L 03/17/2021 - 22:06:07: [SM] Failed to load plugin "smac_hl2dm_fixes.smx": This module will not work for this mod and should be removed..
+L 03/17/2021 - 22:06:09: [SM] Exception reported: Cannot create new entity when no map is running
+L 03/17/2021 - 22:06:09: [SM] Blaming: l4d2_l4d1_survivors_fix.smx
+L 03/17/2021 - 22:06:09: [SM] Call stack trace:
+L 03/17/2021 - 22:06:09: [SM]   [0] CreateEntityByName
+L 03/17/2021 - 22:06:09: [SM]   [1] Line 137, \\DESKTOP-E5450\SanDisk Z400s SSD 128G\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2 Dedicated Server\left4dead2\addons\sourcemod\scripting\l4d2_l4d1_survivors_fix.sp::FireEntityInput
+L 03/17/2021 - 22:06:09: [SM]   [2] Line 37, \\DESKTOP-E5450\SanDisk Z400s SSD 128G\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2 Dedicated Server\left4dead2\addons\sourcemod\scripting\l4d2_l4d1_survivors_fix.sp::RoundStart
+L 03/17/2021 - 22:32:15: Error log file session closed.
