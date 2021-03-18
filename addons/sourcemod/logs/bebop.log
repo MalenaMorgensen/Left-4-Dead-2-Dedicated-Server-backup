@@ -936,3 +936,23 @@ L 03/17/2021 - 22:06:07: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dea
 L 03/17/2021 - 22:32:15: [bebop.smx] +-------------------------------------------+
 L 03/17/2021 - 22:32:15: [bebop.smx] |                  MAP END                  |
 L 03/17/2021 - 22:32:15: [bebop.smx] +-------------------------------------------+
+L 03/18/2021 - 12:33:25: [bebop.smx] +-------------------------------------------+
+L 03/18/2021 - 12:33:25: [bebop.smx] |               PLUGIN START                |
+L 03/18/2021 - 12:33:25: [bebop.smx] +-------------------------------------------+
+L 03/18/2021 - 12:33:25: [bebop.smx] |               Version: 0.2 beta           |
+L 03/18/2021 - 12:33:25: [bebop.smx] +-------------------------------------------+
+L 03/18/2021 - 12:33:25: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. setting mp_gamemode convar flags to unprotected
+L 03/18/2021 - 12:33:25: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamemode is COOP. hooking events...
+L 03/18/2021 - 12:33:25: [bebop.smx] HOOKED_EVENTS -> NOTICE: hooked events
+L 03/18/2021 - 12:33:25: [bebop.smx] PLUGIN_LOAD -> NOTICE: gamedir is \left4dead2. restoring original mp_gamemode convar flags
+L 03/18/2021 - 12:34:00: [bebop.smx] PLAYER_ACTIVATE: --> 啊哇啦 <-- just activated in the game
+L 03/18/2021 - 12:39:15: [bebop.smx] PLAYER_CHANGE_TEAM:	--> 啊哇啦 <-- may pressed the afk button
+L 03/18/2021 - 12:39:21: [bebop.smx] +-------------------------------------------+
+L 03/18/2021 - 12:39:21: [bebop.smx] |                  MAP END                  |
+L 03/18/2021 - 12:39:21: [bebop.smx] +-------------------------------------------+
+L 03/18/2021 - 12:39:27: [bebop.smx] +-------------------------------------------+
+L 03/18/2021 - 12:39:27: [bebop.smx] |                  MAP END                  |
+L 03/18/2021 - 12:39:27: [bebop.smx] +-------------------------------------------+
+L 03/18/2021 - 12:39:48: [bebop.smx] +-------------------------------------------+
+L 03/18/2021 - 12:39:48: [bebop.smx] |                  MAP END                  |
+L 03/18/2021 - 12:39:48: [bebop.smx] +-------------------------------------------+

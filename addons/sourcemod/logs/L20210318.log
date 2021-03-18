@@ -1,0 +1,582 @@
+L 03/18/2021 - 12:33:23: SourceMod log file session started (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2 Dedicated Server\left4dead2\addons\sourcemod\logs\L20210318.log") (Version "1.10.0.6502")
+L 03/18/2021 - 12:33:23: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_easy") (value "0")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 03/18/2021 - 12:33:30: [admincheats.smx] CONSOLE ran cheat command 'sb_force_max_intensity'
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "32")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "32")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_unreserved") (value "1")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_adrenaline_density") (value "3.56")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_defibrillator_density") (value "0.0")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_pain_pill_density") (value "5")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_super_weapon_density") (value "0.0")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_tank_force_offer") (value "1")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_upgradepack_density") (value "3.56")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_vomitjar_density") (value "3.56")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1.0000")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1.0")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1.0")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_flow_team_variation") (value "0.0")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1.0000")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1.0")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "1.0")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_flow_team_variation") (value "0.0")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_stuck_time_suicide") (value "9999999999")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_boss_flow_max_intro") (value "0.9")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_boss_flow_max") (value "0.9")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_tank_lottery_selection_time") (value "2")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "22")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "22")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_maxplayers") (value "18")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_survivor_limit") (value "18")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_infected_limit") (value "18")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_killreservation") (value "1")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_hunter_max_pounce_bonus_damage") (value "99")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_range_min") (value "300")
+L 03/18/2021 - 12:33:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_range_max") (value "3187.5")
+L 03/18/2021 - 12:34:08: [admincheats.smx] <Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:08: [admincheats.smx] <(1)Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:08: [admincheats.smx] <(1)Rochelle><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:08: [admincheats.smx] <(2)Rochelle><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:08: [admincheats.smx] <(1)Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:08: [admincheats.smx] <(3)Rochelle><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:08: [admincheats.smx] <(2)Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:08: [admincheats.smx] <(1)Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:08: [admincheats.smx] <(2)Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:08: [admincheats.smx] <(3)Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:08: [admincheats.smx] <(2)Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:08: [admincheats.smx] <(3)Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:08: [admincheats.smx] <(4)Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:08: [admincheats.smx] <(3)Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:34:10: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:34:11: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:34:11: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:34:11: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:34:11: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:34:11: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:34:11: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:34:11: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:34:11: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:34:11: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:34:11: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:34:11: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:34:11: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:34:11: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:35:16: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:17: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:19: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:19: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:20: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:20: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:21: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:21: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:36:38: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:36:38: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:36:38: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:36:38: [admincheats.smx] <啊哇啦><STEAM_1:0:37541651><192.168.0.158> ran cheat command 'give'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:22: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:23: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:24: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:25: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:28: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:29: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:33: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:34: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:35: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:36: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:37: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:38: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:39: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(1)Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:37:40: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:25: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:25: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:25: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:25: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:25: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:25: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:25: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:25: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:25: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:25: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:25: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:25: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:26: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:26: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:26: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:26: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:26: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:26: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:26: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:26: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:26: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:26: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:26: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:26: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:27: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:27: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:27: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:27: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:27: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:27: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:27: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:27: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:27: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:27: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:27: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:27: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:27: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <Producer><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <(1)Zoey><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <(1)Biker><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <(1)Manager><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <Mechanic><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <(1)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <(2)Gambler><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:38:28: [admincheats.smx] <(1)NamVet><BOT><127.0.0.1> was prevented from running cheat command 'script'
+L 03/18/2021 - 12:39:17: [admincheats.smx] <Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:17: [admincheats.smx] <Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:19: [admincheats.smx] <Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:22: -------- Mapchange to c1m2_streets --------
+L 03/18/2021 - 12:39:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_easy") (value "0")
+L 03/18/2021 - 12:39:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0")
+L 03/18/2021 - 12:39:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0")
+L 03/18/2021 - 12:39:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0")
+L 03/18/2021 - 12:39:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/18/2021 - 12:39:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 03/18/2021 - 12:39:23: [admincheats.smx] CONSOLE ran cheat command 'sb_force_max_intensity'
+L 03/18/2021 - 12:39:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "32")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "32")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_unreserved") (value "1")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_adrenaline_density") (value "3.56")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_defibrillator_density") (value "0.0")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_pain_pill_density") (value "5")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_super_weapon_density") (value "0.0")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_tank_force_offer") (value "1")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_upgradepack_density") (value "3.56")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_vomitjar_density") (value "3.56")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1.0000")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1.0")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1.0")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_flow_team_variation") (value "0.0")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1.0000")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1.0")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "1.0")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_flow_team_variation") (value "0.0")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_stuck_time_suicide") (value "9999999999")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_boss_flow_max_intro") (value "0.9")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_boss_flow_max") (value "0.9")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_tank_lottery_selection_time") (value "2")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "22")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "22")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_maxplayers") (value "18")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_survivor_limit") (value "18")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_infected_limit") (value "18")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_killreservation") (value "1")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_hunter_max_pounce_bonus_damage") (value "99")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_range_min") (value "300")
+L 03/18/2021 - 12:39:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_range_max") (value "3187.5")
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Zoey><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Zoey><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Zoey><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Zoey><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Rochelle><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Rochelle><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Rochelle><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Rochelle><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:24: [admincheats.smx] <Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:25: [DefibFix] Save player(1) pos: 2262.368652 4449.417480 469.881409
+L 03/18/2021 - 12:39:25: [DefibFix] Save player(3) pos: 2063.444580 4457.831055 469.881409
+L 03/18/2021 - 12:39:25: [DefibFix] Save player(4) pos: 2271.786621 4506.972168 469.881409
+L 03/18/2021 - 12:39:26: [admincheats.smx] <Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <(1)Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <Rochelle><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <Rochelle><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <(1)Rochelle><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <(1)Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <(2)Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <(1)Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <(2)Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <(3)Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <(2)Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <(3)Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:26: [admincheats.smx] <(4)Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:27: -------- Mapchange to c1m1_hotel --------
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_easy") (value "0")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_expert") (value "0")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_hard") (value "0")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "survivor_friendly_fire_factor_normal") (value "0")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 03/18/2021 - 12:39:29: [admincheats.smx] CONSOLE ran cheat command 'sb_force_max_intensity'
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxplayers") (value "32")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_visiblemaxplayers") (value "32")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_unreserved") (value "1")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_adrenaline_density") (value "3.56")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_defibrillator_density") (value "0.0")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_pain_pill_density") (value "5")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_super_weapon_density") (value "0.0")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_tank_force_offer") (value "1")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_upgradepack_density") (value "3.56")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_vomitjar_density") (value "3.56")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1.0000")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1.0")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1.0")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_flow_team_variation") (value "0.0")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1.0000")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1.0")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "1.0")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_flow_team_variation") (value "0.0")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_stuck_time_suicide") (value "9999999999")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_boss_flow_max_intro") (value "0.9")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_boss_flow_max") (value "0.9")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_tank_lottery_selection_time") (value "2")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "22")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "22")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_maxplayers") (value "18")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_survivor_limit") (value "18")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_infected_limit") (value "18")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d_killreservation") (value "1")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_hunter_max_pounce_bonus_damage") (value "99")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_range_min") (value "300")
+L 03/18/2021 - 12:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_pounce_damage_range_max") (value "3187.5")
+L 03/18/2021 - 12:39:31: [admincheats.smx] <Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:31: [admincheats.smx] <Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:31: [admincheats.smx] <Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:31: [admincheats.smx] <Rochelle><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:31: [admincheats.smx] <(1)Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:31: [admincheats.smx] <(2)Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:31: [admincheats.smx] <(1)Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:32: [admincheats.smx] <(1)Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:32: [admincheats.smx] <(2)Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:32: [admincheats.smx] <(1)Rochelle><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:32: [admincheats.smx] <(3)Nick><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:32: [admincheats.smx] <(2)Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:32: [admincheats.smx] <(3)Coach><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:32: [admincheats.smx] <(3)Ellis><BOT><127.0.0.1> ran cheat command 'give'
+L 03/18/2021 - 12:39:48: Log file closed.
